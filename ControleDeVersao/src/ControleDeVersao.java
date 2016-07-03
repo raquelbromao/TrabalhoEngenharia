@@ -15,4 +15,5 @@ public class ControleDeVersao {
 	public void setA2(float a2) {
 		A2 = a2;
 	}	
+	
 }
