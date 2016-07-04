@@ -1,4 +1,3 @@
-
 public class ControleDeVersao {
 	private int A1;
 	private float A2;
