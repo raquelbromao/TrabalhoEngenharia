@@ -1,7 +1,7 @@
 public class ControleB {
 	private int B1;
 	private float B2;
-	String B4;
+	private String B4;
 	
 	public int getB1() {
 		return B1;
