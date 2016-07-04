@@ -1,8 +1,8 @@
 public class ControleDeVersao {
 	private int A1;
 	private float A2;
-	String A3;
-	String Aramo4;
+	private String A3;
+	private String Aramo4;
 	
 	public int getA1() {
 		return A1;
