@@ -2,6 +2,7 @@ public class ControleDeVersao {
 	private int A1;
 	private float A2;
 	String A3;
+	String Aramo4;
 	
 	public int getA1() {
 		return A1;
@@ -26,7 +27,15 @@ public class ControleDeVersao {
 	public void setA3(String a3) {
 		A3 = a3;
 	}
-	
+
+	public String getAramo4() {
+		return Aramo4;
+	}
+
+	public void setAramo4(String aramo4) {
+		Aramo4 = aramo4;
+	}
+
 	public float soma(int n, float m) {
 		float soma = n + m;
 		return soma;
